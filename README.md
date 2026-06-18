@@ -19,6 +19,6 @@ To get started, make sure you have **Termux** installed and **Root access** gran
 2. Open Termux and run the following commands to install it:
 
 ```bash
-cp /sdcard/Download/cc $PREFIX/bin/cc
+cp /sdcard/Download/cc.sh $PREFIX/bin/cc
 chmod +x $PREFIX/bin/cc
 cc
